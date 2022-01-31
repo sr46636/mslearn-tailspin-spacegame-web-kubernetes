@@ -18,7 +18,6 @@ spec:
           ports:
           - containerPort: 80
 
-kind: Deployment
 metadata:
   name: leaderboard
 spec:
